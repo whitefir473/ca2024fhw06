@@ -12,4 +12,4 @@ https://stereoarts.jp/
 
 ## 2. 在Asset中找到“Scenes”資料夾 >> 打開“HW06_Scene.unity”
 
-<img src="images/2.png">
+<img src="images/3.png">
