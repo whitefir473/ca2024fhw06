@@ -1,0 +1,1266 @@
+fileFormatVersion: 2
+guid: 60dd462cec35453428dd9c0b0b2f5127
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'singing_mcp' has import animation warnings
+      that might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'NTUT_0807:Spine3' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'NTUT_0807:Neck1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'NTUT_0807:RightHandRing'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'NTUT_0807:RightHandPinky'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'NTUT_0807:RightHandIndex'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'NTUT_0807:RightHandThumb1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'NTUT_0807:LeftHandRing'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'NTUT_0807:LeftHandPinky'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'NTUT_0807:LeftHandIndex'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'NTUT_0807:LeftHandThumb1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: singing_mcp
+      takeName: singing_mcp
+      internalID: 4930624332075002303
+      firstFrame: 1
+      lastFrame: 2348
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0.59999996
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: NTUT_0807:Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NTUT_0807:LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NTUT_0807:RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NTUT_0807:LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NTUT_0807:RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NTUT_0807:LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NTUT_0807:RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NTUT_0807:Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NTUT_0807:Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NTUT_0807:Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NTUT_0807:Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NTUT_0807:LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NTUT_0807:RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NTUT_0807:LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NTUT_0807:RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NTUT_0807:LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NTUT_0807:RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NTUT_0807:LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NTUT_0807:RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NTUT_0807:LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NTUT_0807:RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NTUT_0807:LeftHandIndex1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NTUT_0807:LeftHandIndex2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NTUT_0807:LeftHandIndex3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NTUT_0807:LeftHandThumb2
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NTUT_0807:LeftHandThumb3
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NTUT_0807:LeftHandThumb4
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NTUT_0807:LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NTUT_0807:LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NTUT_0807:LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NTUT_0807:LeftHandPinky1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NTUT_0807:LeftHandPinky2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NTUT_0807:LeftHandPinky3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NTUT_0807:LeftHandRing1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NTUT_0807:LeftHandRing2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NTUT_0807:LeftHandRing3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NTUT_0807:RightHandIndex1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NTUT_0807:RightHandIndex2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NTUT_0807:RightHandIndex3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NTUT_0807:RightHandThumb2
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NTUT_0807:RightHandThumb3
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NTUT_0807:RightHandThumb4
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NTUT_0807:RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NTUT_0807:RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NTUT_0807:RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NTUT_0807:RightHandPinky1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NTUT_0807:RightHandPinky2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NTUT_0807:RightHandPinky3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NTUT_0807:RightHandRing1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NTUT_0807:RightHandRing2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NTUT_0807:RightHandRing3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NTUT_0807:Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: singing(Clone)
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:Position
+      parentName: singing(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:Hips
+      parentName: singing(Clone)
+      position: {x: 0.0000000037252903, y: 0.78036964, z: -0.09175038}
+      rotation: {x: 0.005245313, y: -0.035152227, z: 0.0046836976, w: 0.9993572}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:Spine
+      parentName: NTUT_0807:Hips
+      position: {x: -0, y: 0.12337954, z: -0.016912904}
+      rotation: {x: -0.01884566, y: -0.0017688643, z: -0.01106681, w: 0.9997596}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:Spine1
+      parentName: NTUT_0807:Spine
+      position: {x: -0, y: 0.08757099, z: 0}
+      rotation: {x: 0.031286214, y: 0.0012703213, z: 0.001179978, w: 0.999509}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:Spine2
+      parentName: NTUT_0807:Spine1
+      position: {x: -0, y: 0.08757099, z: 0}
+      rotation: {x: 0.007920632, y: 0.012205034, z: 0.00701975, w: 0.9998695}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:Spine3
+      parentName: NTUT_0807:Spine2
+      position: {x: -0, y: 0.08757099, z: 0}
+      rotation: {x: -0.009391298, y: 0.0030946163, z: 0.006599186, w: 0.99992937}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:Neck
+      parentName: NTUT_0807:Spine3
+      position: {x: -0, y: 0.112591274, z: 0.011259127}
+      rotation: {x: -0.0020354015, y: 0.013876994, z: -0.03778327, w: 0.9991875}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:Neck1
+      parentName: NTUT_0807:Neck
+      position: {x: -0, y: 0.053317927, z: 0}
+      rotation: {x: 0.029537756, y: 0.012819396, z: 0.0063789766, w: 0.9994611}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:Head
+      parentName: NTUT_0807:Neck1
+      position: {x: -0, y: 0.053317927, z: 0}
+      rotation: {x: -0.07150871, y: -0.001137003, z: 0.007050961, w: 0.9974144}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:HeadEnd
+      parentName: NTUT_0807:Head
+      position: {x: -0, y: 0.0972772, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:RightShoulder
+      parentName: NTUT_0807:Spine3
+      position: {x: -0, y: 0.080422334, z: 0.048758447}
+      rotation: {x: -0.06796853, y: 0.107778646, z: -0.65908027, w: 0.7411999}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:RightArm
+      parentName: NTUT_0807:RightShoulder
+      position: {x: -0, y: 0.18179181, z: 0}
+      rotation: {x: 0.1649222, y: 0.7080854, z: 0.03973528, w: 0.68544644}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:RightForeArm
+      parentName: NTUT_0807:RightArm
+      position: {x: -0, y: 0.26071468, z: 0}
+      rotation: {x: -0.035490908, y: -0.7367617, z: 0.04233324, w: 0.673892}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:RightHand
+      parentName: NTUT_0807:RightForeArm
+      position: {x: -0, y: 0.2267172, z: 0}
+      rotation: {x: -0.1876698, y: 0.018751772, z: -0.103176676, w: 0.9766182}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:RightHandMiddle1
+      parentName: NTUT_0807:RightHand
+      position: {x: -0, y: 0.09946987, z: 0}
+      rotation: {x: -0.0031989813, y: 0.0022613928, z: -0.07559785, w: 0.99713075}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:RightHandMiddle2
+      parentName: NTUT_0807:RightHandMiddle1
+      position: {x: -0, y: 0.05259228, z: 0}
+      rotation: {x: 0.00000010267829, y: 0.00000014854592, z: -0.038228445, w: 0.999269}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:RightHandMiddle3
+      parentName: NTUT_0807:RightHandMiddle2
+      position: {x: -0, y: 0.03412843, z: 0}
+      rotation: {x: -0.00000019792152, y: 0.0000000021782816, z: -0.04006002, w: 0.9991973}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:RightHandMiddle4
+      parentName: NTUT_0807:RightHandMiddle3
+      position: {x: -0, y: 0.020395752, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:RightHandRing
+      parentName: NTUT_0807:RightHand
+      position: {x: 0.0025, y: 0.0025, z: -0.010038211}
+      rotation: {x: -0.054756723, y: -0.15401874, z: -0.029757252, w: 0.9861007}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:RightHandRing1
+      parentName: NTUT_0807:RightHandRing
+      position: {x: -0, y: 0.08793374, z: 0}
+      rotation: {x: 0.03751807, y: -0.0050133746, z: -0.049682137, w: 0.99804753}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:RightHandRing2
+      parentName: NTUT_0807:RightHandRing1
+      position: {x: -0, y: 0.048934918, z: 0}
+      rotation: {x: -0.00000041723246, y: 0.000000012572853, z: -0.031846143, w: 0.99949276}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:RightHandRing3
+      parentName: NTUT_0807:RightHandRing2
+      position: {x: -0, y: 0.03341582, z: 0}
+      rotation: {x: 0, y: -0, z: -0.029788533, w: 0.99955624}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:RightHandRing4
+      parentName: NTUT_0807:RightHandRing3
+      position: {x: -0, y: 0.020278538, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:RightHandPinky
+      parentName: NTUT_0807:RightHandRing
+      position: {x: 0.0025, y: 0.0025, z: -0.010038211}
+      rotation: {x: -0.055569623, y: -0.035694066, z: -0.02780758, w: 0.9974291}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:RightHandPinky1
+      parentName: NTUT_0807:RightHandPinky
+      position: {x: -0, y: 0.074067496, z: 0}
+      rotation: {x: 0.07480831, y: -0.010017278, z: -0.02272178, w: 0.99688876}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:RightHandPinky2
+      parentName: NTUT_0807:RightHandPinky1
+      position: {x: -0, y: 0.039841045, z: 0}
+      rotation: {x: -0.00000075250836, y: -0.00000011362131, z: -0.032513205, w: 0.9994713}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:RightHandPinky3
+      parentName: NTUT_0807:RightHandPinky2
+      position: {x: -0, y: 0.025393242, z: 0}
+      rotation: {x: 0.000000024455735, y: 0.000000012956757, z: -0.03854173, w: 0.9992571}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:RightHandPinky4
+      parentName: NTUT_0807:RightHandPinky3
+      position: {x: -0, y: 0.018707829, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:RightHandIndex
+      parentName: NTUT_0807:RightHand
+      position: {x: 0.0025, y: 0.0025, z: 0.010038211}
+      rotation: {x: 0.09429327, y: -0.10989787, z: 0.007979432, w: 0.9894279}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:RightHandIndex1
+      parentName: NTUT_0807:RightHandIndex
+      position: {x: -0, y: 0.09642034, z: 0}
+      rotation: {x: 0.23333018, y: -0.018170232, z: -0.049025435, w: 0.9709909}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:RightHandIndex2
+      parentName: NTUT_0807:RightHandIndex1
+      position: {x: -0, y: 0.0509887, z: 0}
+      rotation: {x: 0.0000014603136, y: 0.0000000037252899, z: -0.036413155, w: 0.99933684}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:RightHandIndex3
+      parentName: NTUT_0807:RightHandIndex2
+      position: {x: -0, y: 0.030471152, z: 0}
+      rotation: {x: 0, y: 0, z: 0.0004459946, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:RightHandIndex4
+      parentName: NTUT_0807:RightHandIndex3
+      position: {x: -0, y: 0.018543724, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:RightHandThumb1
+      parentName: NTUT_0807:RightHandIndex
+      position: {x: 0.0075, y: 0.0025, z: 0.010038211}
+      rotation: {x: 0.20844077, y: 0.53295857, z: -0.06774196, w: 0.8172629}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:RightHandThumb2
+      parentName: NTUT_0807:RightHandThumb1
+      position: {x: -0, y: 0.06344791, z: 0}
+      rotation: {x: -0.22525178, y: -0.045108303, z: -0.06461993, w: 0.9711082}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:RightHandThumb3
+      parentName: NTUT_0807:RightHandThumb2
+      position: {x: -0, y: 0.04215483, z: 0}
+      rotation: {x: 0, y: 0, z: 0.0122526, w: 0.99992496}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:RightHandThumb4
+      parentName: NTUT_0807:RightHandThumb3
+      position: {x: -0, y: 0.025400916, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LeftShoulder
+      parentName: NTUT_0807:Spine3
+      position: {x: -0, y: 0.080422334, z: 0.048758447}
+      rotation: {x: -0.1003659, y: -0.14304231, z: 0.65289205, w: 0.7370195}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LeftArm
+      parentName: NTUT_0807:LeftShoulder
+      position: {x: -0, y: 0.18179181, z: 0}
+      rotation: {x: 0.1838146, y: 0.009984051, z: 0.058423582, w: 0.9811724}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LeftForeArm
+      parentName: NTUT_0807:LeftArm
+      position: {x: -0, y: 0.26071468, z: 0}
+      rotation: {x: -0.071455106, y: -0.13287061, z: 0.0052775512, w: 0.98854023}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LeftHand
+      parentName: NTUT_0807:LeftForeArm
+      position: {x: -0, y: 0.2267172, z: 0}
+      rotation: {x: -0.0399405, y: 0.040795486, z: -0.060014166, w: 0.9965635}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LeftHandMiddle1
+      parentName: NTUT_0807:LeftHand
+      position: {x: -0, y: 0.08968339, z: 0}
+      rotation: {x: -0.003314322, y: -0.011285514, z: 0.065090485, w: 0.99781007}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LeftHandMiddle2
+      parentName: NTUT_0807:LeftHandMiddle1
+      position: {x: -0, y: 0.047433615, z: 0}
+      rotation: {x: -0.0000016433177, y: 0.000000108033355, z: 0.025385803, w: 0.9996777}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LeftHandMiddle3
+      parentName: NTUT_0807:LeftHandMiddle2
+      position: {x: -0, y: 0.030686928, z: 0}
+      rotation: {x: -0.0000008193178, y: 0.0000002861011, z: 0.031334594, w: 0.99950904}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LeftHandMiddle4
+      parentName: NTUT_0807:LeftHandMiddle3
+      position: {x: -0, y: 0.018429287, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LeftHandRing
+      parentName: NTUT_0807:LeftHand
+      position: {x: -0.0025, y: 0.0025, z: -0.008936445}
+      rotation: {x: -0.07914516, y: 0.09719797, z: -0.0042203716, w: 0.99210423}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LeftHandRing1
+      parentName: NTUT_0807:LeftHandRing
+      position: {x: -0, y: 0.079276994, z: 0}
+      rotation: {x: 0.06441648, y: 0.015353985, z: 0.07378919, w: 0.9950729}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LeftHandRing2
+      parentName: NTUT_0807:LeftHandRing1
+      position: {x: -0, y: 0.04417406, z: 0}
+      rotation: {x: 0.00000044703452, y: -0.000000028870978, z: 0.018937094, w: 0.99982065}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LeftHandRing3
+      parentName: NTUT_0807:LeftHandRing2
+      position: {x: -0, y: 0.030033631, z: 0}
+      rotation: {x: -0.0000005940711, y: 0.00000004261883, z: 0.034776274, w: 0.99939513}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LeftHandRing4
+      parentName: NTUT_0807:LeftHandRing3
+      position: {x: -0, y: 0.018323373, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LeftHandPinky
+      parentName: NTUT_0807:LeftHandRing
+      position: {x: -0.0025, y: 0.0025, z: -0.008936445}
+      rotation: {x: -0.11498166, y: 0.0025083844, z: -0.022704031, w: 0.99310493}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LeftHandPinky1
+      parentName: NTUT_0807:LeftHandPinky
+      position: {x: -0, y: 0.066910185, z: 0}
+      rotation: {x: 0.16598819, y: 0.09553235, z: 0.11751348, w: 0.97442913}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LeftHandPinky2
+      parentName: NTUT_0807:LeftHandPinky1
+      position: {x: -0, y: 0.035881687, z: 0}
+      rotation: {x: 0.0000008791684, y: 0.00000020116565, z: 0.020033129, w: 0.9997993}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LeftHandPinky3
+      parentName: NTUT_0807:LeftHandPinky2
+      position: {x: -0, y: 0.022802366, z: 0}
+      rotation: {x: 0.00000062558274, y: -0.0000004857487, z: 0.02955292, w: 0.9995632}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LeftHandPinky4
+      parentName: NTUT_0807:LeftHandPinky3
+      position: {x: -0, y: 0.016904105, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LeftHandIndex
+      parentName: NTUT_0807:LeftHand
+      position: {x: -0.0025, y: 0.0025, z: 0.008936445}
+      rotation: {x: 0.11890476, y: 0.0638257, z: 0.009551887, w: 0.9908061}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LeftHandIndex1
+      parentName: NTUT_0807:LeftHandIndex
+      position: {x: -0, y: 0.086936176, z: 0}
+      rotation: {x: 0.22419412, y: -0.00030942625, z: -0.05890324, w: 0.97276276}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LeftHandIndex2
+      parentName: NTUT_0807:LeftHandIndex1
+      position: {x: -0, y: 0.045897834, z: 0}
+      rotation: {x: 0.0000016242254, y: -0.00000037558468, z: 0.022307672, w: 0.9997512}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LeftHandIndex3
+      parentName: NTUT_0807:LeftHandIndex2
+      position: {x: -0, y: 0.027393095, z: 0}
+      rotation: {x: -0.0000026637088, y: -0.00000041328371, z: 0.033467323, w: 0.9994399}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LeftHandIndex4
+      parentName: NTUT_0807:LeftHandIndex3
+      position: {x: -0, y: 0.016755823, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LeftHandThumb1
+      parentName: NTUT_0807:LeftHandIndex
+      position: {x: -0.0075, y: 0.0025, z: 0.008936445}
+      rotation: {x: 0.27663055, y: -0.5255312, z: 0.023276776, w: 0.8042082}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LeftHandThumb2
+      parentName: NTUT_0807:LeftHandThumb1
+      position: {x: -0, y: 0.05701905, z: 0}
+      rotation: {x: -0.29442862, y: 0.08559635, z: 0.14527324, w: 0.9406811}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LeftHandThumb3
+      parentName: NTUT_0807:LeftHandThumb2
+      position: {x: -0, y: 0.037914686, z: 0}
+      rotation: {x: 0, y: 0, z: 0.017241754, w: 0.9998514}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LeftHandThumb4
+      parentName: NTUT_0807:LeftHandThumb3
+      position: {x: -0, y: 0.022951877, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:RightUpLeg
+      parentName: NTUT_0807:Hips
+      position: {x: 0.10180634, y: 0, z: 0}
+      rotation: {x: 0.057679083, y: -0.006989716, z: 0.026351772, w: 0.99796283}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:RightLeg
+      parentName: NTUT_0807:RightUpLeg
+      position: {x: -0, y: -0.3798672, z: 0}
+      rotation: {x: -0.0031344383, y: 0, z: -0, w: 0.9999951}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:RightFoot
+      parentName: NTUT_0807:RightLeg
+      position: {x: -0, y: -0.3541504, z: 0}
+      rotation: {x: -0.04675171, y: 0.102869004, z: -0.007847885, w: 0.99356467}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:RightForeFoot
+      parentName: NTUT_0807:RightFoot
+      position: {x: -0, y: -0.036020983, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:RightToeBase
+      parentName: NTUT_0807:RightForeFoot
+      position: {x: -0, y: 0, z: 0.14106959}
+      rotation: {x: 0.076460615, y: -0, z: -0, w: 0.99707264}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:RightToeBaseEnd
+      parentName: NTUT_0807:RightToeBase
+      position: {x: -0, y: 0, z: 0.083781965}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LeftUpLeg
+      parentName: NTUT_0807:Hips
+      position: {x: -0.10180634, y: 0, z: 0}
+      rotation: {x: 0.033462282, y: -0.07407501, z: -0.061238267, w: 0.9948081}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LeftLeg
+      parentName: NTUT_0807:LeftUpLeg
+      position: {x: -0, y: -0.3798672, z: 0}
+      rotation: {x: -0.01422387, y: 0, z: -0, w: 0.99989885}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LeftFoot
+      parentName: NTUT_0807:LeftLeg
+      position: {x: -0, y: -0.3541504, z: 0}
+      rotation: {x: -0.038152315, y: -0.029068965, z: 0.01574861, w: 0.9987249}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LeftForeFoot
+      parentName: NTUT_0807:LeftFoot
+      position: {x: -0, y: -0.036020983, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LeftToeBase
+      parentName: NTUT_0807:LeftForeFoot
+      position: {x: -0, y: 0, z: 0.14106959}
+      rotation: {x: 0.0792384, y: -0, z: -0, w: 0.99685574}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LeftToeBaseEnd
+      parentName: NTUT_0807:LeftToeBase
+      position: {x: -0, y: 0, z: 0.06175153}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:ARIEL
+      parentName: singing(Clone)
+      position: {x: 0.076557055, y: 1.5785267, z: -0.09392129}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LFHD
+      parentName: singing(Clone)
+      position: {x: -0.04663599, y: 1.4939709, z: -0.021788498}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LBHD
+      parentName: singing(Clone)
+      position: {x: -0.012906532, y: 1.5026929, z: -0.15697598}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:RFHD
+      parentName: singing(Clone)
+      position: {x: 0.121181704, y: 1.4927055, z: -0.023573807}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:RBHD
+      parentName: singing(Clone)
+      position: {x: 0.092605494, y: 1.4991997, z: -0.14248952}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:C7
+      parentName: singing(Clone)
+      position: {x: 0.04234312, y: 1.3044698, z: -0.1639487}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:T10
+      parentName: singing(Clone)
+      position: {x: 0.03536365, y: 1.0671775, z: -0.18434079}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LT10
+      parentName: singing(Clone)
+      position: {x: -0.051661115, y: 1.0824596, z: -0.17313522}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:RT10
+      parentName: singing(Clone)
+      position: {x: 0.11969544, y: 1.0822203, z: -0.1720095}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:CLAV
+      parentName: singing(Clone)
+      position: {x: 0.03410301, y: 1.2523147, z: -0.0059001967}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:STRN
+      parentName: singing(Clone)
+      position: {x: 0.03005757, y: 1.0557612, z: 0.023696788}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LFSH
+      parentName: singing(Clone)
+      position: {x: -0.06939774, y: 1.2742642, z: -0.042518258}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LTSH
+      parentName: singing(Clone)
+      position: {x: -0.080631524, y: 1.3311363, z: -0.09845168}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LBSH
+      parentName: singing(Clone)
+      position: {x: -0.049963586, y: 1.2706813, z: -0.17319946}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LUPA
+      parentName: singing(Clone)
+      position: {x: -0.21529573, y: 1.2882081, z: -0.13443963}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LELB
+      parentName: singing(Clone)
+      position: {x: -0.33081865, y: 1.2986891, z: -0.13314296}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LBEL
+      parentName: singing(Clone)
+      position: {x: -0.36943734, y: 1.2288003, z: -0.15881827}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LFRM
+      parentName: singing(Clone)
+      position: {x: -0.44309524, y: 1.2727143, z: -0.17582072}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LIWR
+      parentName: singing(Clone)
+      position: {x: -0.56269866, y: 1.2632531, z: -0.12106514}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LOWR
+      parentName: singing(Clone)
+      position: {x: -0.5443441, y: 1.2924337, z: -0.1998445}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LIHAND
+      parentName: singing(Clone)
+      position: {x: -0.6638786, y: 1.2889096, z: -0.15348047}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LOHAND
+      parentName: singing(Clone)
+      position: {x: -0.62501436, y: 1.2857012, z: -0.21729548}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LTHM3
+      parentName: singing(Clone)
+      position: {x: -0.6658925, y: 1.2542864, z: -0.1217942}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LIDX3
+      parentName: singing(Clone)
+      position: {x: -0.72006255, y: 1.2947903, z: -0.19346519}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LPNK3
+      parentName: singing(Clone)
+      position: {x: -0.67653763, y: 1.2802484, z: -0.23772568}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:RFSH
+      parentName: singing(Clone)
+      position: {x: 0.14434418, y: 1.2559545, z: -0.04162622}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:RTSH
+      parentName: singing(Clone)
+      position: {x: 0.1572192, y: 1.322556, z: -0.10237503}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:RBSH
+      parentName: singing(Clone)
+      position: {x: 0.13533708, y: 1.2632798, z: -0.17451881}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:RUPA
+      parentName: singing(Clone)
+      position: {x: 0.27402636, y: 1.2828126, z: -0.15070926}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:RELB
+      parentName: singing(Clone)
+      position: {x: 0.4193602, y: 1.1974263, z: -0.17947239}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:RBEL
+      parentName: singing(Clone)
+      position: {x: 0.37857643, y: 1.2300332, z: -0.17876966}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:RFRM
+      parentName: singing(Clone)
+      position: {x: 0.5110384, y: 1.2226268, z: -0.22373876}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:RIWR
+      parentName: singing(Clone)
+      position: {x: 0.63004804, y: 1.2323734, z: -0.1767075}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:ROWR
+      parentName: singing(Clone)
+      position: {x: 0.60673577, y: 1.2354134, z: -0.26369977}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:RIHAND
+      parentName: singing(Clone)
+      position: {x: 0.7229517, y: 1.2458321, z: -0.24970593}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:ROHAND
+      parentName: singing(Clone)
+      position: {x: 0.6710702, y: 1.2018758, z: -0.2960388}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:RTHM3
+      parentName: singing(Clone)
+      position: {x: 0.7457041, y: 1.2199734, z: -0.20533437}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:RIDX3
+      parentName: singing(Clone)
+      position: {x: 0.775806, y: 1.2131603, z: -0.29998103}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:RPNK3
+      parentName: singing(Clone)
+      position: {x: 0.72001773, y: 1.1998307, z: -0.3114978}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LFWT
+      parentName: singing(Clone)
+      position: {x: -0.08854799, y: 0.9008152, z: -0.029437272}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LMWT
+      parentName: singing(Clone)
+      position: {x: -0.13871115, y: 0.8054352, z: -0.10696831}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LBWT
+      parentName: singing(Clone)
+      position: {x: -0.06271957, y: 0.91153926, z: -0.16714929}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:RFWT
+      parentName: singing(Clone)
+      position: {x: 0.16658649, y: 0.8990291, z: -0.04903358}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:RMWT
+      parentName: singing(Clone)
+      position: {x: 0.18944368, y: 0.8094267, z: -0.050437093}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:RBWT
+      parentName: singing(Clone)
+      position: {x: 0.1311781, y: 0.90315753, z: -0.15188488}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LTHI
+      parentName: singing(Clone)
+      position: {x: -0.16591763, y: 0.5752139, z: -0.09535926}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LKNE
+      parentName: singing(Clone)
+      position: {x: -0.1682343, y: 0.42467695, z: -0.11141399}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LKNU
+      parentName: singing(Clone)
+      position: {x: -0.11081148, y: 0.40439165, z: -0.05248591}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LSHN
+      parentName: singing(Clone)
+      position: {x: -0.19890179, y: 0.26033816, z: -0.15281036}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LANK
+      parentName: singing(Clone)
+      position: {x: -0.21109986, y: 0.018000716, z: -0.18138832}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LHEL
+      parentName: singing(Clone)
+      position: {x: -0.13660243, y: 0.03338318, z: -0.22997563}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LMT5
+      parentName: singing(Clone)
+      position: {x: -0.22963613, y: 0.024811383, z: -0.034445357}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LMT1
+      parentName: singing(Clone)
+      position: {x: -0.14672236, y: 0.016587038, z: -0.009700174}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:LTOE
+      parentName: singing(Clone)
+      position: {x: -0.20511638, y: 0.031171715, z: 0.042173468}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:RTHI
+      parentName: singing(Clone)
+      position: {x: 0.20472822, y: 0.57591337, z: -0.05649664}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:RKNE
+      parentName: singing(Clone)
+      position: {x: 0.20106822, y: 0.44600737, z: -0.08881413}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:RKNU
+      parentName: singing(Clone)
+      position: {x: 0.13289681, y: 0.3958425, z: -0.056989487}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:RSHN
+      parentName: singing(Clone)
+      position: {x: 0.23226725, y: 0.2880004, z: -0.12059166}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:RANK
+      parentName: singing(Clone)
+      position: {x: 0.23543257, y: 0.0054250276, z: -0.16503024}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:RHEL
+      parentName: singing(Clone)
+      position: {x: 0.16403116, y: 0.025485903, z: -0.22982973}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:RMT5
+      parentName: singing(Clone)
+      position: {x: 0.25314006, y: 0.01770019, z: -0.040179227}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:RMT1
+      parentName: singing(Clone)
+      position: {x: 0.15245959, y: 0.012953648, z: -0.02266561}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NTUT_0807:RTOE
+      parentName: singing(Clone)
+      position: {x: 0.21411178, y: 0.02469579, z: 0.057857998}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
